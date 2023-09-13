@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+"""https://docs.python.org/3/glossary.html#term-parameter
+"""
 def adder(x, y, *args):
     sum = x + y
     
